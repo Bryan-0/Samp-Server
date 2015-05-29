@@ -1,6 +1,6 @@
 //
 //  ADMIN SPECTATE FILTER SCRIPT
-//  Bryan 2007
+//  Bryan 2009
 //
 
 #pragma tabsize 0
