@@ -23,6 +23,8 @@ enum AttachmentEnum
     attachname[24]
 }
 
+//Game objects, ´Attachments´.
+
 new AttachmentObjects[][AttachmentEnum] = {
 {18632, "FishingRod"},
 {18633, "GTASAWrench1"},
@@ -254,6 +256,8 @@ new AttachmentObjects[][AttachmentEnum] = {
 {19513, "whitephone"},
 {19515, "GreySwatArm"}
 };
+
+//Game Body, ´Attachments´.
 
 new AttachmentBones[][24] = {
 {"Spine"},
